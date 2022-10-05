@@ -9,3 +9,4 @@
 - 📙 My Resume - 
 
 ## 🚀 Technology I use:
+![JavaScript](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg)
