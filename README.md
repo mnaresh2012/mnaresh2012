@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on Javascript, Typescript, React, Redux, GraphQL and SFCC
 - 🌱 I’m currently learning Go Programming Language
-- 📫 How to reach me: mnaresh2010@aol.com
+- 📫 How to reach me: naresh8@icloud.com
 - ⚡ Currently Working as a lead software developer at Valtech India.
-- 📙 My Resume - 
+- 📙 My Resume - [Naresh_Sr_Software_Engineer_10Years.pdf](https://github.com/mnaresh2012/mnaresh2012/files/9845810/Naresh_Sr_Software_Engineer_10Years.pdf)
 
 ## 🚀 Technology I use:
 <p align="left" dir="auto">
